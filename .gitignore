@@ -41,3 +41,12 @@ app.*.map.json
 /android/app/debug
 /android/app/profile
 /android/app/release
+
+# MongoDB data files
+/data/db/
+
+# MongoDB log file
+/mongod.log
+
+# MongoDB environment file
+/mongod.env
